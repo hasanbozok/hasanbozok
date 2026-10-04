@@ -65,7 +65,7 @@
 <h3 align="center">🌍 Pick your language · Dilini seç</h3>
 
 <details>
-<summary><b>🇬🇧 English</b> <sub>(click to open)</sub></summary>
+<summary><kbd>EN</kbd> <b>English</b> <sub>(click to open)</sub></summary>
 <br/>
 
 <img src="./assets/terminal-en.svg" width="100%" alt="Animated terminal: whoami, healthcheck, git log" />
@@ -213,7 +213,7 @@ def is_weekend(day: str) -> bool:
 </details>
 
 <details>
-<summary><b>🇹🇷 Türkçe</b> <sub>(açmak için tıkla)</sub></summary>
+<summary><kbd>TR</kbd> <b>Türkçe</b> <sub>(açmak için tıkla)</sub></summary>
 <br/>
 
 <img src="./assets/terminal-tr.svg" width="100%" alt="Animasyonlu terminal: whoami, sağlık kontrolü, git log" />
